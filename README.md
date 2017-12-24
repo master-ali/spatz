@@ -1,2 +1,3 @@
 # spatz
-Reiseführer aus Interaction Design
+
+Der Reiseführer aus Interaction Design.
